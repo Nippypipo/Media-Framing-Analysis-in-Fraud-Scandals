@@ -1,5 +1,18 @@
-# Media-Framing-Analysis-in-Fraud-Scandals
-
-Building on prior research on Media framing in Wirecard’s fraud scandal , Media Framing refers to how the media shapes public perception and discourse by selecting certain aspects of a story and making them salient through rhetoric and stylistic devices.
-The research identified 6 distinct frames in media coverage of the Wirecard fraud scandal. For a project in 2209491 PROJ LANG TECH I, the senior project course in the Language and Information Technology curriculum, we aim to develop a machine learning classifier to automate media framing analysis.
-We aspire to contribute to the growing field of computational social science, providing tools to further investigate the media’s role in shaping public opinion and constructing narratives around corporate and institutional accountability.
+# 📰 **Media Framing Classifier for Fraud Scandals**
+   - **Description:** A project aimed at developing a machine learning classifier to automate media framing analysis, building on prior research in media framing related to Wirecard’s fraud scandal. This project focuses on how media shapes public perception through specific rhetorical techniques and stylistic devices.
+   - **Objective:** 
+     - **Accurate Framing Classifier**: 
+       - Automate media framing analysis to enhance productivity and allow deeper insights into how events are portrayed by different media outlets.
+       - Address key research questions, such as:
+         - How do specific frames emerge and evolve during a scandal?
+         - How does framing vary across media outlets?
+     - **Multilingual and Generalizable Model**: 
+       - Design a model capable of handling multiple languages and adapting to different fraud cases across linguistic contexts.
+       - Enable analyses of fraud cases in low-resource languages.
+       - Explore cases like:
+         - **The Enron fraud (USA, October 2001)** – predominantly covered in English.
+         - **The Parmalat fraud (Italy, December 2003)** – widely reported in Italian.
+   - **Tools/Technologies:** Machine Learning, Natural Language Processing (NLP), Multilingual Models
+   - **Key Achievements:**
+     - Development of a machine learning classifier for media framing in fraud scandals.
+     - Enabled multilingual analysis for varying cases across linguistic contexts.
