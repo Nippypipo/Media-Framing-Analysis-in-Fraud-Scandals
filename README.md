@@ -17,5 +17,4 @@
      - Development of a machine learning classifier for media framing in fraud scandals.
      - Enabled multilingual analysis for varying cases across linguistic contexts.
     
-   ![My Project Image](Media-Framing-Analysis-in-Fraud-Scandals
-/Media Framing Analysis in Fraud Scandals Poster.png)
+   ![My Project Image](Media-Framing-Analysis-in-Fraud-Scandals/Media Framing Analysis in Fraud Scandals Poster.png)
