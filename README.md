@@ -18,4 +18,4 @@
      - Enabled multilingual analysis for varying cases across linguistic contexts.
     
    ![My Project Image](Media-Framing-Analysis-in-Fraud-Scandals
-/(Media Framing Analysis in Fraud Scandals Poster.png)
+/Media Framing Analysis in Fraud Scandals Poster.png)
