@@ -17,4 +17,4 @@
      - Development of a machine learning classifier for media framing in fraud scandals.
      - Enabled multilingual analysis for varying cases across linguistic contexts.
     
-![My Project Image](Media_Framing_Analysis_Poster.png)
+![My Project Image]((Poster)Automated_Media_Framing_Analysis_in_Corporate_Fraud_Scandals_Nipun SR PROJ.png)
