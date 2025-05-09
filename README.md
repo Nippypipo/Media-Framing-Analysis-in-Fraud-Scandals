@@ -1,4 +1,4 @@
-# 📰 **Media Framing Classifier for Fraud Scandals**
+# 📰 **Automated Media Framing Analysis in Corporate Fraud Scandals**
    - **Description:** A project aimed at developing a machine learning classifier to automate media framing analysis, building on prior research in media framing related to Wirecard’s fraud scandal. This project focuses on how media shapes public perception through specific rhetorical techniques and stylistic devices.
    - **Objective:** 
      - **Accurate Framing Classifier**: 
