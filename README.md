@@ -32,6 +32,7 @@ A project focused on automating media framing analysis in corporate fraud scanda
 - Demonstrated strong performance of `mBERT` for multilingual classification across diverse fraud cases.
 - Applied `mBERT` to 768 articles on the **CumEx Fraud Scandal**, revealing frame dynamics during the shift from public exposure to legal prosecution.
 - Showed that LLMs can offer interpretable reasoning and identify dominant/sub-dominant frames, supporting multi-label or annotation tasks.
-- Proposed future improvements including paragraph-level tagging and frame aggregation to better capture multi-frame articles.
+
+[📰 Read full paper here!](https://github.com/Nippypipo/Media-Framing-Analysis-in-Fraud-Scandals/blob/24aeccc7fb0354c59ececc151c0ca8586fb8eb4a/Automated_Media_Framing_Analysis_in_Corporate_Fraud_Scandals(Paper)_Nipun%20SR%20PROJ.pdf)
     
 ![My Project Image](Poster_SR_PROJ.png)
