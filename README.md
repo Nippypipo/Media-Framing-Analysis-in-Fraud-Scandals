@@ -1,20 +1,37 @@
 # 📰 **Automated Media Framing Analysis in Corporate Fraud Scandals**
-   - **Description:** A project aimed at developing a machine learning classifier to automate media framing analysis, building on prior research in media framing related to Wirecard’s fraud scandal. This project focuses on how media shapes public perception through specific rhetorical techniques and stylistic devices.
-   - **Objective:** 
-     - **Accurate Framing Classifier**: 
-       - Automate media framing analysis to enhance productivity and allow deeper insights into how events are portrayed by different media outlets.
-       - Address key research questions, such as:
-         - How do specific frames emerge and evolve during a scandal?
-         - How does framing vary across media outlets?
-     - **Multilingual and Generalizable Model**: 
-       - Design a model capable of handling multiple languages and adapting to different fraud cases across linguistic contexts.
-       - Enable analyses of fraud cases in low-resource languages.
-       - Explore cases like:
-         - **The Enron fraud (USA, October 2001)** – predominantly covered in English.
-         - **The Parmalat fraud (Italy, December 2003)** – widely reported in Italian.
-   - **Tools/Technologies:** Machine Learning, Natural Language Processing (NLP), Multilingual Models
-   - **Key Achievements:**
-     - Development of a machine learning classifier for media framing in fraud scandals.
-     - Enabled multilingual analysis for varying cases across linguistic contexts.
+## 📌 Description
+A project focused on automating media framing analysis in corporate fraud scandals using transformer-based models and large language models (LLMs). Built on prior research and annotation from the Wirecard dataset, this project aims to understand how media frames influence public perception through rhetorical and stylistic strategies.
+
+## 🎯 Objective
+
+- **Accurate Framing Classifier**
+  - Automate classification of news articles into six established media frames (e.g., Consequences, Failure Attribution, Moral Evaluation).
+  - Address key research questions:
+    - How do specific frames emerge and evolve during a scandal?
+    - How does framing vary across media outlets or countries?
+
+- **Multilingual and Generalizable Models**
+  - Develop models that support multiple languages and generalize to unseen fraud cases.
+  - Enable analysis in both high- and low-resource linguistic contexts.
+  - Apply models to real-world fraud scandals such as:
+    - **Wirecard Scandal (Germany, 2020)** – used as the annotated training set.
+    - **CumEx Fraud (Europe, 2019–2020)** – model inference to analyze frame evolution over time.
+
+## 🛠️ Tools & Technologies
+
+- Transformer models: `mBERT`, `LLaMA 3.1`
+- LLMs: `GPT-3.5`, `GPT-4o-mini`, `o1`
+- Prompt engineering: Zero-shot, One-shot, Chain-of-Thought
+- Fine-tuning: `LoRA`, `QLoRA`
+- Libraries: Hugging Face Transformers, Scikit-learn
+- NLP, Machine Learning, Python
+
+## 🚀 Key Achievements
+
+- Fine-tuned multilingual models and explored zero-shot LLM prompting strategies for media framing tasks.
+- Demonstrated strong performance of `mBERT` for multilingual classification across diverse fraud cases.
+- Applied `mBERT` to 768 articles on the **CumEx Fraud Scandal**, revealing frame dynamics during the shift from public exposure to legal prosecution.
+- Showed that LLMs can offer interpretable reasoning and identify dominant/sub-dominant frames, supporting multi-label or annotation tasks.
+- Proposed future improvements including paragraph-level tagging and frame aggregation to better capture multi-frame articles.
     
 ![My Project Image](Poster_SR_PROJ.png)
